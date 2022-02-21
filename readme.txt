@@ -1,2 +1,2 @@
 Hello OSS.
-Git is free software.
+Git is distributed free software.
